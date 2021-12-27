@@ -1,4 +1,4 @@
-# Smart contracts on Polygon - how the exactly this can be done?
+# Smart contracts on Polygon - how exactly this can be done?
 
 This one will be a quicky. Let's see how to write, deploy, and interact with smart contracts on the Polygon blockchain. We expect that you have a basic understanding of what MetaMask and Remix IDE are.
 First, we need to determine what testnet to use. In the quest, we will use the Mumbai testnet. 
